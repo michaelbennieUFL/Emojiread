@@ -1,0 +1,49 @@
+experiment_set,sentence_type,full_sentence,sentence,emoji
+Set 1,emotional_trial,That meeting was an experience 🥀,That meeting was an experience,🥀
+Set 1,emotional_trial,The book was interesting 😂,The book was interesting,😂
+Set 1,emotional_trial,That movie was complicated 💔,That movie was complicated,💔
+Set 1,emotional_trial,Did you see the news today 🤭,Did you see the news today,🤭
+Set 1,emotional_trial,Do you believe her 🪫,Do you believe her,🪫
+Set 1,emotional_trial,Great job with that 🤣,Great job with that,🤣
+Set 1,emotional_trial,Good work in there 🪦,Good work in there,🪦
+Set 1,emotional_trial,Congratulations 😭,Congratulations,😭
+Set 1,emotional_trial,That meeting was an experience 😭,That meeting was an experience,😭
+Set 1,emotional_trial,The book was interesting 🥀,The book was interesting,🥀
+Set 1,emotional_trial,That movie was complicated 😂,That movie was complicated,😂
+Set 1,emotional_trial,Did you see the news today 💔,Did you see the news today,💔
+Set 1,emotional_trial,Do you believe her 🤭,Do you believe her,🤭
+Set 1,emotional_trial,Great job with that 🪫,Great job with that,🪫
+Set 1,emotional_trial,Good work in there 🤣,Good work in there,🤣
+Set 1,emotional_trial,Congratulations 🪦,Congratulations,🪦
+Set 1,blank_frame,That meeting was an experience,That meeting was an experience,
+Set 1,blank_frame,The book was interesting,The book was interesting,
+Set 1,blank_frame,That movie was complicated,That movie was complicated,
+Set 1,blank_frame,Did you see the news today,Did you see the news today,
+Set 1,neutral_emoji,Do you believe her 🔎,Do you believe her,🔎
+Set 1,neutral_emoji,Great job with that 💼,Great job with that,💼
+Set 1,neutral_emoji,That movie was complicated 🎬,That movie was complicated,🎬
+Set 1,neutral_emoji,Congratulations 🧮,Congratulations,🧮
+Set 2,emotional_trial,That meeting was an experience 🪦,That meeting was an experience,🪦
+Set 2,emotional_trial,The book was interesting 😭,The book was interesting,😭
+Set 2,emotional_trial,That movie was complicated 🥀,That movie was complicated,🥀
+Set 2,emotional_trial,Did you see the news today 😂,Did you see the news today,😂
+Set 2,emotional_trial,Do you believe her 💔,Do you believe her,💔
+Set 2,emotional_trial,Great job with that 🤭,Great job with that,🤭
+Set 2,emotional_trial,Good work in there 🪫,Good work in there,🪫
+Set 2,emotional_trial,Congratulations 🤣,Congratulations,🤣
+Set 2,emotional_trial,That meeting was an experience 🤣,That meeting was an experience,🤣
+Set 2,emotional_trial,The book was interesting 🪦,The book was interesting,🪦
+Set 2,emotional_trial,That movie was complicated 😭,That movie was complicated,😭
+Set 2,emotional_trial,Did you see the news today 🥀,Did you see the news today,🥀
+Set 2,emotional_trial,Do you believe her 😂,Do you believe her,😂
+Set 2,emotional_trial,Great job with that 💔,Great job with that,💔
+Set 2,emotional_trial,Good work in there 🤭,Good work in there,🤭
+Set 2,emotional_trial,Congratulations 🪫,Congratulations,🪫
+Set 2,blank_frame,Do you believe her,Do you believe her,
+Set 2,blank_frame,Great job with that,Great job with that,
+Set 2,blank_frame,Good work in there,Good work in there,
+Set 2,blank_frame,Congratulations,Congratulations,
+Set 2,neutral_emoji,That meeting was an experience 🥯,That meeting was an experience,🥯
+Set 2,neutral_emoji,The book was interesting 📖,The book was interesting,📖
+Set 2,neutral_emoji,Good work in there 🌂,Good work in there,🌂
+Set 2,neutral_emoji,Did you see the news today 📰,Did you see the news today,📰
